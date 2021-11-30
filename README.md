@@ -1,1 +1,1 @@
-use jupyter notebook to implement VGG network.
+I use jupyter notebook to implement VGG network.

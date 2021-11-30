@@ -1,1 +1,1 @@
-# YouAreRight02
+use jupyter notebook to implement VGG network.
